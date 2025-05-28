@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b100bbe7-996e-4f3f-b225-94b3f6da0b74" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../lab3/images/input/1000.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/images/input/879.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/images/input/880.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/images/input/901.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/images/input/914.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/images/input/935.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/images/input/947.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/images/input/977.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/images/input/987.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/images/input/989.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/images/input/991.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/images/output/879_LSBMR_exact.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/images/output/880_LSBMR_exact.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/images/output/901_LSBMR_exact.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/images/output/914_LSBMR_exact.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/images/output/935_LSBMR_exact.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/images/output/947_LSBMR_exact.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/images/output/987_LSBMR_exact.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/lab3.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2x7qjjfy4FE4yc1IA2MsgWem4ZC" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/VitaY/OneDrive/Рабочий стол/steganography/lab8"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-98f27166c754-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.21829.153" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b100bbe7-996e-4f3f-b225-94b3f6da0b74" name="Changes" comment="" />
+      <created>1747299597853</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747299597853</updated>
+    </task>
+    <servers />
+  </component>
+</project>
